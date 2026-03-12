@@ -44,7 +44,6 @@ Includes:
 
 - **Fact tables** (e.g., sales)  
 - **Dimension tables** (e.g., customers, products,)  
-- Surrogate keys, conformed dimensions, and slowly changing attributes where appropriate  
 
 ### 🔹 **3. Exploratory Data Analysis**
 Includes exploration of:
